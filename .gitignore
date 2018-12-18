@@ -1,0 +1,5 @@
+security.py
+celerybeat-schedule
+venv/*
+.idea/*
+__pycache__/
